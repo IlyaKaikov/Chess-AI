@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 112bfbfac71b08f42bccef326295b65f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilePrefab: {fileID: 7050276631346706305, guid: 49f23ac0e0b54374a8abbeb51491adbb, type: 3}
+  - arrowPrefab: {fileID: 5061646439133719642, guid: ac312ad0305d1e14d842ce2edf66a24d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
