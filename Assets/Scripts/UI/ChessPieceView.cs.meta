@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: fdbfcec633de16e41b509feb2f94cc45
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - whiteKing: {fileID: 681442881, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  - blackKing: {fileID: 388054359, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  - whiteQueen: {fileID: 1491521842, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  - blackQueen: {fileID: 1180985202, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  - whiteRook: {fileID: -1394738113, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  - blackRook: {fileID: -1254899608, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  - whiteBishop: {fileID: -705451838, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  - blackBishop: {fileID: -1621966666, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  - whiteKnight: {fileID: -920060291, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  - blackKnight: {fileID: -500209909, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  - whitePawn: {fileID: -892428452, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  - blackPawn: {fileID: -1922031979, guid: 71cc800181375f245b43435f2ac31c24, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
