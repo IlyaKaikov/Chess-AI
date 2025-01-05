@@ -15,7 +15,7 @@ Positional evaluation for adaptive strategies
 
 Interactive UI: Move highlights, last move indicators, and marking tiles or moves
 
-Customization: Input FEN strings and set game timers
+Customization: Input [FEN](https://www.chessprogramming.org/Forsyth-Edwards_Notation) strings and set game timers
 
 ## Testing
 
