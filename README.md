@@ -35,6 +35,10 @@ Drag pieces to valid positions.
 
 Use right-click for marking moves or strategies.
 
+## License
+
+This project is licensed under the MIT License.
+
 ## Credits
 
 Developed by Ilya Kaikov.
