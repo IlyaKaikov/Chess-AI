@@ -1,6 +1,10 @@
 # Chess AI Unity Project - ReadMe
 ![chess1](https://github.com/user-attachments/assets/09725026-a0ab-4dcd-a921-c3aa425ac543)
 
+## Download
+
+[Download Windows Version via Github Releases](https://github.com/IlyaKaikov/Chess-AI/releases/tag/v1.0.0)
+
 ## Overview
 
 This Unity-based Chess AI project lets players compete against an AI or Practice (solo).
