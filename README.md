@@ -19,7 +19,7 @@ Customization: Input FEN strings and set game timers
 
 ## Testing
 
-Move generation validated through Perft testing for various positions and compared with the Stockfish chess engine to ensure theoretical accuracy.
+Move generation validated through [Perft](https://www.chessprogramming.org/Perft_Results) testing for various positions and compared with the [Stockfish](https://www.chessprogramming.org/Stockfish) chess engine to ensure theoretical accuracy.
 
 ## Features
 
