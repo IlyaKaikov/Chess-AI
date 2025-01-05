@@ -11,6 +11,8 @@ This Unity-based Chess AI project lets players compete against an AI or Practice
 
 The AI employs advanced techniques like Minimax with Alpha-Beta pruning and positional evaluation for more challenging gameplay.
 
+For C# code check out /Assets/Scripts
+
 ## AI
 
 Minimax Algorithm with Alpha-Beta pruning
