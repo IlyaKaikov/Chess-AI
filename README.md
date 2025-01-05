@@ -5,6 +5,9 @@ Chess AI Unity Project - ReadMe
 Overview
 
 This Unity-based Chess AI project lets players compete against an AI or Practice (solo). The AI employs advanced techniques like Minimax with Alpha-Beta pruning and positional evaluation for more challenging gameplay.
+
+Testing
+
 Move generation validated through Perft testing for various positions and compared with the Stockfish chess engine to ensure theoretical accuracy.
 
 Features
