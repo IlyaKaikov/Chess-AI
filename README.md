@@ -13,33 +13,39 @@ The AI employs advanced techniques like Minimax with Alpha-Beta pruning and posi
 
 For C# code check out /Assets/Scripts
 
-## AI
-
-Minimax Algorithm with Alpha-Beta pruning
-
-Positional evaluation for adaptive strategies
-
-Interactive UI: Move highlights, last move indicators, and marking tiles or moves
-
-Customization: Input [FEN](https://www.chessprogramming.org/Forsyth-Edwards_Notation) strings and set game timers
-
-## Testing
-
-Move generation validated through [Perft](https://www.chessprogramming.org/Perft_Results) testing for various positions and compared with the [Stockfish](https://www.chessprogramming.org/Stockfish) chess engine to ensure theoretical accuracy.
-
-## Features
+### Features
 
 Game Modes: Practice (solo), Human vs AI (play as White/Black)
 
 Chess Rules: Supports castling, En Passant, pawn promotion, checkmate, stalemate.
 
-## How to Play
+### How to Play
 
 Select a game mode.
 
 Drag pieces to valid positions.
 
 Use right-click for marking moves or strategies.
+
+## AI
+
+Minimax Algorithm with Alpha-Beta pruning and iterative deepening
+
+Move ordering evaluation for faster and more effiecient pruning
+
+Positional evaluation for adaptive strategies
+
+## Testing
+
+Move generation validated through [Perft](https://www.chessprogramming.org/Perft_Results) testing for various positions and compared with the [Stockfish](https://www.chessprogramming.org/Stockfish) chess engine to ensure theoretical accuracy.
+
+For test scripts check out /Assets/Scripts/Tests
+
+## Interactive UI:
+
+Move highlights, last move indicators, and marking tiles or moves
+
+Input [FEN](https://www.chessprogramming.org/Forsyth-Edwards_Notation) strings and set game timers
 
 ## License
 
