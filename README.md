@@ -15,7 +15,7 @@ For C# code check out /Assets/Scripts
 
 ### Features
 
-Game Modes: Practice (solo), Human vs AI (play as White/Black)
+Game Modes: Practice (solo), Human vs AI (play as White/Black).
 
 Chess Rules: Supports castling, En Passant, pawn promotion, checkmate, stalemate.
 
@@ -29,11 +29,11 @@ Use right-click for marking moves or strategies.
 
 ## AI
 
-Minimax Algorithm with Alpha-Beta pruning and iterative deepening
+Minimax Algorithm with Alpha-Beta pruning and iterative deepening.
 
-Move ordering evaluation for faster and more effiecient pruning
+Move ordering evaluation for faster and more effiecient pruning.
 
-Positional evaluation for adaptive strategies
+Positional evaluation for adaptive strategies.
 
 ## Testing
 
@@ -43,9 +43,9 @@ For test scripts check out /Assets/Scripts/Tests
 
 ## Interactive UI:
 
-Move highlights, last move indicators, and marking tiles or moves
+Move highlights, last move indicators, and marking tiles or moves.
 
-Input [FEN](https://www.chessprogramming.org/Forsyth-Edwards_Notation) strings and set game timers
+Input [FEN](https://www.chessprogramming.org/Forsyth-Edwards_Notation) strings and set game timers.
 
 ## License
 
